@@ -1,0 +1,23 @@
+html{
+	margin: 0;
+	background-color: #a9a9a9;
+	color: white;
+}
+
+.red {
+	color: red;
+}
+.blue{
+	color: blue;
+}
+
+#console{
+	visibility: hidden;
+	width: 50%;
+	height: 300px;
+	border: 5px solid #ddf;
+	border-top-width: 15px;
+	margin: 50px auto 20px;
+	padding: 10px;
+	background-color: rgb(50,50,50);
+}
