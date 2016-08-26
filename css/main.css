@@ -3,6 +3,7 @@ html, body{
 	background-color: #4B3F72;
 	color: white;
 	font-family: 'Dosis', sans-serif;
+	/*font-size: 1.2em;*/
 }
 
 img{
@@ -12,8 +13,20 @@ img{
 .red {
 	color: red;
 }
+.dark-purple{
+	color: #1F2041;
+}
+.purple{
+	color: #4B3F72;
+}
+.yellow{
+	color: #FFC857;
+}
+.aqua{
+	color: #19F3FF;
+}
 .blue{
-	color: blue;
+	color: #2082A3;
 }
 
 header{
@@ -36,10 +49,16 @@ header{
 	margin-top: 100px;
 }
 
-.sec-spacer{
-	padding: 5% 0;
+.spacer{
+	padding-bottom: 5%;
+	padding-top: 5%;
 }
 
 .materiais{
 	background-color: #1F2041;
+}
+
+p{
+	font-size: 1.3em;
+	line-height: 19pt;
 }
